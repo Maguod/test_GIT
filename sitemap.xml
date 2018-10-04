@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>https://maksimovaphoto.pro/</loc>
+	<lastmod>2018-09-01T22:00:38+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://maksimovaphoto.pro/index.html</loc>
+	<lastmod>2018-09-01T22:00:38+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://maksimovaphoto.pro/gallary.html</loc>
+	<lastmod>2018-09-01T22:00:39+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://maksimovaphoto.pro/blog.html</loc>
+	<lastmod>2018-09-01T22:00:39+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://maksimovaphoto.pro/contact.html</loc>
+	<lastmod>2018-09-01T22:00:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
